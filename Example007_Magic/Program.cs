@@ -44,4 +44,4 @@ while(count < 10000)
     Console.WriteLine("+");
     count++;
 }
-Console.ReadKey();
+Console.ReadKey(); //Добавляет ожидание нажатия любой кнопки (ReadLine - кнопки Enter), для продолжения работы с терминалом
