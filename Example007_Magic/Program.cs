@@ -44,3 +44,4 @@ while(count < 10000)
     Console.WriteLine("+");
     count++;
 }
+Console.ReadKey();
